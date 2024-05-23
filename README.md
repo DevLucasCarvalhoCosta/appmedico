@@ -22,7 +22,7 @@ Antes de iniciar, certifique-se de ter instalado o seguinte:
 1. Clone o repositório do GitHub:
 
 ```
-git clone https://github.com/seu-usuario/app-medico.git
+git clone https://github.com/Lucaspk91/appmedico.git
 ```
 
 2. Instale as dependências do projeto:
